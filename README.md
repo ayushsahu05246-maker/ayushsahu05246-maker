@@ -53,23 +53,17 @@ Full Stack Developer focused on building modern web applications and scalable ba
 
 ## 🚀 Featured Projects
 
+### ⚡ Electric Home Service Website
+Complete service-booking platform connecting customers with electricians through an intuitive and responsive web interface.
+
+### 👁️ Heal Vision
+AI-powered healthcare solution leveraging computer vision and machine learning for intelligent disease analysis.
+
 ### 🏗️ Yash Construction
-Professional construction company website with modern UI and responsive design.
+Modern construction company website designed to showcase projects, services, and business operations.
 
 ### 💱 Currency Converter
-Real-time currency conversion application using APIs.
-
-### 🌐 Full Stack Web Apps
-Responsive and scalable web applications using React.js and Node.js.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushsahu05246-maker&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsahu05246-maker&layout=compact)
-
+Fast and accurate currency conversion tool integrated with real-time exchange rate APIs.
 ---
 
 ## 🎯 2026 Goals
